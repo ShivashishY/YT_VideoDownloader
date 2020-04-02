@@ -25,7 +25,7 @@ Step 5: Create the Executable using Pyinstaller
         
 ```ruby
 
-cd C:\Users\Ron\Desktop\MyPython
+cd C:\Users\Test1\Desktop\MyPython
 
 ```
 
